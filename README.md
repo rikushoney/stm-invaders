@@ -1,2 +1,3 @@
-# stm-invaders
-Space Invaders for the Stellenbosch University STM emulator
+# STM Invaders
+Space Invaders written for Computer Systems 245 at Stellenbosch University on
+their STM32F411VETX emulator.
